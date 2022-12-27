@@ -24,7 +24,7 @@ Este projeto utiliza as seguintes tecnologias:
 
     # O servidor vai ser inicializado no <http://localhost:3000/>
     
-    License
+# License
 
 © Projeto realizado pela Rocketseat e feito por Mateus Neto 🤝
 
