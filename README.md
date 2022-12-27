@@ -1,14 +1,15 @@
 # dtMoney 🚀
+Projeto da trilha React da Rocketseat o Dt money é uma interface de controle financeiro que permite cadastro de transações de entrada e saída.
 # 💻 Tecnologias
 
 Este projeto utiliza as seguintes tecnologias:
 
-    ReactJS
-    Typescript
-    Styled Components
-    Polished
-    React Modal
-    MirageJS
+ ⚛️ React
+ 
+💚 Typescript
+
+💅 Styled components
+    
     
 # Como rodar o projeto
 
@@ -23,4 +24,7 @@ Este projeto utiliza as seguintes tecnologias:
 
     # O servidor vai ser inicializado no <http://localhost:3000/>
     
+    License
+
+© Projeto realizado pela Rocketseat e feito por Mateus Neto 🤝
 
